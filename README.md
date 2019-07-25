@@ -12,7 +12,7 @@ cd frameworks/base && git fetch https://github.com/Bamice/patcher.git && git che
 ```
 当默认语言设置为中文时，自动去x
 ```makefile
-cd frameworks/base && git fetch https://github.com/Bamice/patcher.git && git cherry-pick 68069c0dcf7b95b0f1138b7a0f82cca21e2c68a4 &Y cd ../..
+cd frameworks/base && git fetch https://github.com/Bamice/patcher.git && git cherry-pick 68069c0dcf7b95b0f1138b7a0f82cca21e2c68a4 && cd ../..
 ```
 安卓Q部分过渡动画
 ```makefile
