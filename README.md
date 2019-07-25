@@ -14,3 +14,8 @@ cd frameworks/base && git fetch https://github.com/Bamice/patcher.git && git che
 ```makefile
 cd frameworks/base && git fetch https://github.com/Bamice/patcher.git && git cherry-pick 68069c0dcf7b95b0f1138b7a0f82cca21e2c68a4 &Y cd ../..
 ```
+安卓Q部分过渡动画
+```makefile
+cd frameworks/base && git fetch https://github.com/Bamice/patcher.git && git cherry-pick 0723c7b454f21d6f3db610412657dbe8b2676933 && cd ../..
+```
+
